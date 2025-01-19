@@ -15,10 +15,11 @@ Untuk melakukan pencarian ini, cukup dengan run code berikut :
 
 **Pencarian Beberapa Kata tapi dalam satu kali run**
 - Untuk melakukannya cukup dengan menambahkan query yang ingin dicari di google maps dalam file 'input.txt' dan tiap query yang berbeda berada pada garis yang berbeda.
-- Setelah itu run `python main.py`
 Contohnya :
 
 - `Semua toko yang ada di Bandung`
 - `Rumah sakit di Jakarta`
 - `Toko baju di Surabaya`
+
+- - Setelah itu run `python main.py`
 
