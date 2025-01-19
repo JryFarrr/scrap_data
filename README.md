@@ -14,7 +14,8 @@ Untuk melakukan pencarian ini, cukup dengan run code berikut :
 - `python3 main.py -s=<Apa dan dimana yang ingin dicari -t=Berapa banyak`
 
 **Pencarian Beberapa Kata tapi dalam satu kali run**
-Untuk melakukannya cukup dengan menambahkan query yang ingin dicari di google maps, dan tiap query yang berbeda berada pada garis yang berbeda.
+- Untuk melakukannya cukup dengan menambahkan query yang ingin dicari di google maps dalam file 'input.txt' dan tiap query yang berbeda berada pada garis yang berbeda.
+- Setelah itu run `python main.py`
 Contohnya :
 
 - `Semua toko yang ada di Bandung`
