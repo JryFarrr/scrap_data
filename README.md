@@ -21,5 +21,5 @@ Contohnya :
 - `Rumah sakit di Jakarta`
 - `Toko baju di Surabaya`
 
-- - Setelah itu run `python main.py`
+- Setelah itu run `python main.py`
 
