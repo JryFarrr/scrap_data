@@ -12,10 +12,11 @@ Cuman beberapa kode kita sudah bisa untuk melakukan Scrapping Data.
 **Pencarian Tunggal**
 Untuk melakukan pencarian ini, cukup dengan run code berikut :
 - `python3 main.py -s=<Apa dan dimana yang ingin dicari -t=Berapa banyak`
+
 **Pencarian Beberapa Kata tapi dalam satu kali run**
 Untuk melakukannya cukup dengan menambahkan query yang ingin dicari di google maps, dan tiap query yang berbeda berada pada garis yang berbeda
 Contohnya :
-Semua toko yang ada di Bandung
-Rumah sakit di Jakarta
-Toko baju di Surabaya`
+- Semua toko yang ada di Bandung
+- Rumah sakit di Jakarta
+- Toko baju di Surabaya
 
