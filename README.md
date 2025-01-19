@@ -1,7 +1,7 @@
 # Google Maps Scrapper
 
-Ini merupakan projek Scrapping Data dari data Gmaps menggunakan Playwright.
-Cuman beberapa kode kita sudah bisa untuk melakukan Scrapping Data.
+Ini merupakan projek Scrapping Data dari data Gmaps menggunakan Playwright salah satu library dari python.
+Cuman beberapa kode kita sudah bisa untuk melakukan Scrapping Data dengan python.
 
 ## Install Library yang dibutuhkan
 -  Buat sebuah environment baru/opsional untuk ini, tapi jika ada dependensi conflict bisa terselesaikan
