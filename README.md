@@ -15,7 +15,7 @@ Untuk melakukan pencarian ini, cukup dengan run code berikut :
 **Pencarian Beberapa Kata tapi dalam satu kali run**
 Untuk melakukannya cukup dengan menambahkan query yang ingin dicari di google maps, dan tiap query yang berbeda berada pada garis yang berbeda
 Contohnya :
-`Semua toko yang ada di Bandung
-  Rumah sakit di Jakarta
-  Toko baju di Surabaya`
+Semua toko yang ada di Bandung
+Rumah sakit di Jakarta
+Toko baju di Surabaya`
 
